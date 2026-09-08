@@ -153,7 +153,7 @@ The Tableau dashboard follows a management sequence from monitoring to diagnosis
 
 The month and year selectors support a repeatable management review. Contribution profit comparisons use euro changes when results cross zero, while contribution margin and refund rate use percentage-point changes. The headline CLV:CAC and channel view use the same mature paid-channel population and reconcile to the weighted 0.16x result.
 
-> **Tableau Public:** Add the published workbook link here.
+> **Tableau Public:** Click here
 
 <img width="1280" alt="E-Commerce Executive Economics Overview" src="E-com%20Dash(2).jfif" />
 
