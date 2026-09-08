@@ -35,3 +35,14 @@ flowchart TD
 | Acquisition cohort contribution | `ecom_acquisition_cohort_economics` | Cohort month × channel × cohort age |
 | Product Economics Matrix | `ecom_product_profitability_portfolio` | Product × selected period |
 | Customer Profitability Mix | `ecom_customer_month_economics` | Customer × month snapshot |
+
+## Insights Summary
+
+#### In order to evaluate the economic health of the business, I focused on the following key metrics. Together they connect revenue performance with profitability, acquisition efficiency, product economics and customer value.
+
+- **Recognized Revenue**: Product and realized shipping revenue after successful refunds, excluding tax.
+- **Contribution Profit**: CM2 contribution after deducting marketing investment.
+- **Contribution Margin**: Contribution profit divided by recognized revenue.
+- **Average Order Value**: Recognized revenue per completed order.
+- **Refund Rate**: Successful refund value as a percentage of the relevant revenue base.
+- **365-day Contribution CLV:CAC**: Weighted 365-day CM2 contribution divided by acquisition investment for the eligible mature paid-channel population.
