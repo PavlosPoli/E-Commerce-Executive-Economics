@@ -65,7 +65,7 @@ flowchart TD
 
 **Refund rate:** The refund rate was **11.7%**, improving by **1.4 percentage points from November** and **0.3 percentage points from December 2024**. Refund performance improved, but the remaining rate still affects revenue quality, product economics and fulfilment cost.
 
-#### Revenue-to-Contribution Bridge
+#### Revenue-to-Contribution Bridge (Waterfall)
 
 The bridge reconciles December recognized revenue through the main cost layers:
 
