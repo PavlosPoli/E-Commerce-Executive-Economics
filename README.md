@@ -28,3 +28,10 @@ flowchart TD
     D --> F
     E --> F
 ```
+| Dashboard component | Primary dataset | Grain |
+|---|---|---|
+| Executive KPIs and revenue bridge | `ecom_monthly_economics_summary` | Month |
+| CLV:CAC KPI and channel economics | `ecom_clv_cac_analysis` | Acquisition cohort month × channel |
+| Acquisition cohort contribution | `ecom_acquisition_cohort_economics` | Cohort month × channel × cohort age |
+| Product Economics Matrix | `ecom_product_profitability_portfolio` | Product × selected period |
+| Customer Profitability Mix | `ecom_customer_month_economics` | Customer × month snapshot |
