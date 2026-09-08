@@ -72,7 +72,7 @@ The bridge reconciles December recognized revenue through the main cost layers:
 | Bridge component | Amount | Interpretation |
 |---|---:|---|
 | Recognized revenue | €79,151 | Starting revenue base |
-| Net landed COGS | -€48,799 | 61.7% of revenue |
+| COGS | -€48,799 | 61.7% of revenue |
 | Outbound shipping | -€6,057 | 7.7% of revenue |
 | Payment processing | -€2,805 | 3.5% of revenue |
 | Return shipping | -€776 | Cost created by returns |
@@ -87,7 +87,7 @@ The largest management issue is the combination of a limited CM2 margin and mark
 
 The weighted **365-day Contribution CLV:CAC was 0.16x**. For each €1 invested in paid customer acquisition, the eligible mature cohorts generated only €0.16 of CM2 contribution within 365 days. This is well below the **1.0x break-even level** and the **3.0x target shown in the dashboard**.
 
-| Acquisition channel | Blended CAC | 365-day CLV:CAC |
+| Acquisition channel | CAC | 365-day CLV:CAC |
 |---|---:|---:|
 | Paid Social | €314 | 0.14x |
 | Paid Search | €297 | 0.15x |
@@ -122,7 +122,7 @@ Revenue alone is therefore not a sufficient product-management measure. Product 
 | Healthy / Monitor | 1,004 | 6.3% | €135.9K |
 | **Total** | **15,852** | **100.0%** | **€628.2K** |
 
-The most urgent negative pool consists of **4,993 customers** whose cumulative result after CAC was **-€712.6K**, approximately -€143 per customer.
+The most urgent matter are the **4,993 customers** whose cumulative result after CAC was **-€712.6K**, approximately -€143 per customer.
 
 At the same time, the Reactivation Needed and Second Purchase Needed groups contain **9,777 customers**, or **61.7% of the customer base**, and represent €1.20M of historical cumulative contribution. This is value at risk rather than guaranteed future profit, so action should be prioritized by prior contribution, recency and likely incremental return.
 
@@ -136,7 +136,7 @@ At the same time, the Reactivation Needed and Second Purchase Needed groups cont
 
 - **Prioritize reactivation by value:** Target dormant customers using prior contribution and recency. Measure incremental contribution and cost per reactivation rather than campaign engagement alone.
 
-- **Remediate unprofitable customer patterns:** Diagnose acquisition cost, discounts, returns, shipping and product mix for the 4,993 unprofitable customers, then apply recover, restrict or stop rules.
+- **Fix unprofitable customer patterns:** Diagnose acquisition cost, discounts, returns, shipping and product mix for the 4,993 unprofitable customers, then apply recover, restrict or stop rules.
 
 - **Rationalize the product portfolio:** Rank products by negative CM2 euros. Reprice, delist or correct sourcing, returns and fulfilment problems before increasing promotion.
 
