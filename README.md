@@ -9,6 +9,10 @@ Management needs to understand whether the latest revenue movement represents a 
 
 The central management question is:
 
-> **Why is revenue declining, where is contribution leaking, which acquisition channels, products and customer groups create or destroy value, and what should management do next?**
+> **Why is revenue declining, where is contribution leaking, which acquisition channels, products and customer groups create or destroy value and what should management do next.**
 
 ## Dataset structure
+
+The portfolio dataset covers January 2021 to December 2025 and contains approximately 20 tables at their lowest available grain. The data includes customer and product dimensions plus transactional tables for orders, order lines, marketing, web sessions, payments, shipments, returns, refunds, inventory, prices, product costs and operating costs.
+
+SQL outputs were used instead of one physical mega-join. This preserves the natural grain of each analysis and prevents duplicated revenue, marketing spend or customer values.
